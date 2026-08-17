@@ -1,0 +1,1006 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.91194,
+          43.6282
+        ]
+      },
+      "properties": {
+        "nom": "MONTPELLIER CASTELNAU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.950623,
+          43.320098
+        ]
+      },
+      "properties": {
+        "nom": "CASTELNAUDARY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.378716,
+          43.643874
+        ]
+      },
+      "properties": {
+        "nom": "BLAGNAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.561562,
+          44.361937
+        ]
+      },
+      "properties": {
+        "nom": "RODEZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.152,
+          42.97792
+        ]
+      },
+      "properties": {
+        "nom": "SAINT GIRONS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.371281,
+          44.031898
+        ]
+      },
+      "properties": {
+        "nom": "MONTAUBAN NORD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.480905,
+          43.301581
+        ]
+      },
+      "properties": {
+        "nom": "AGDE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.233756,
+          43.592379
+        ]
+      },
+      "properties": {
+        "nom": "CASTRES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.482909,
+          44.524292
+        ]
+      },
+      "properties": {
+        "nom": "MENDE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.317363,
+          43.439269
+        ]
+      },
+      "properties": {
+        "nom": "MURET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.40142,
+          43.854452
+        ]
+      },
+      "properties": {
+        "nom": "NIMES COURBESSAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.427477,
+          43.691536
+        ]
+      },
+      "properties": {
+        "nom": "CASTELGINEST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.33531,
+          43.996864
+        ]
+      },
+      "properties": {
+        "nom": "MONTAUBAN ALBASUD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.023917,
+          44.608423
+        ]
+      },
+      "properties": {
+        "nom": "FIGEAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.383717,
+          43.123697
+        ]
+      },
+      "properties": {
+        "nom": "LANNEMEZAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.461299,
+          43.614368
+        ]
+      },
+      "properties": {
+        "nom": "TOULOUSE JOLIMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.973918,
+          43.76311
+        ]
+      },
+      "properties": {
+        "nom": "GRAULHET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.711687,
+          43.402063
+        ]
+      },
+      "properties": {
+        "nom": "VILLEFRANCHE DE LAURAGAIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.492372,
+          43.582804
+        ]
+      },
+      "properties": {
+        "nom": "TOULOUSE LA PLAINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31133,
+          43.814267
+        ]
+      },
+      "properties": {
+        "nom": "NIMES SAINT CESAIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.515909,
+          43.534469
+        ]
+      },
+      "properties": {
+        "nom": "LABEGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.399923,
+          43.565759
+        ]
+      },
+      "properties": {
+        "nom": "TOULOUSE BELLEFONTAINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.367058,
+          43.821562
+        ]
+      },
+      "properties": {
+        "nom": "NIMES 7 COLLINES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.613616,
+          43.81138
+        ]
+      },
+      "properties": {
+        "nom": "BEAUCAIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1874,
+          43.9224
+        ]
+      },
+      "properties": {
+        "nom": "ALBI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.613141,
+          44.166664
+        ]
+      },
+      "properties": {
+        "nom": "BAGNOLS SUR CEZE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08254,
+          44.11278
+        ]
+      },
+      "properties": {
+        "nom": "MILLAU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.403852,
+          43.58471
+        ]
+      },
+      "properties": {
+        "nom": "TOULOUSE HIPPODROME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.921313,
+          42.686312
+        ]
+      },
+      "properties": {
+        "nom": "PERPIGNAN SANT VICENS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.478673,
+          44.893707
+        ]
+      },
+      "properties": {
+        "nom": "SOUILLAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.894437,
+          42.732812
+        ]
+      },
+      "properties": {
+        "nom": "PERPIGNAN POLYGONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.012812,
+          42.549813
+        ]
+      },
+      "properties": {
+        "nom": "ARGELES SUR MER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.745937,
+          43.177688
+        ]
+      },
+      "properties": {
+        "nom": "LEZIGNAN CORBIERES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.256812,
+          44.557063
+        ]
+      },
+      "properties": {
+        "nom": "DECAZEVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.129023,
+          43.670644
+        ]
+      },
+      "properties": {
+        "nom": "LUNEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8362,
+          42.9201
+        ]
+      },
+      "properties": {
+        "nom": "LAVELANET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.250616,
+          43.332073
+        ]
+      },
+      "properties": {
+        "nom": "BEZIERS CAPISCOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.399187,
+          43.520938
+        ]
+      },
+      "properties": {
+        "nom": "PORTET SUR GARONNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.268469,
+          43.707285
+        ]
+      },
+      "properties": {
+        "nom": "VAUVERT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.080276,
+          43.244582
+        ]
+      },
+      "properties": {
+        "nom": "TARBES ARSENAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4135,
+          43.4475
+        ]
+      },
+      "properties": {
+        "nom": "PEZENAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.22337626,
+          43.3642752
+        ]
+      },
+      "properties": {
+        "nom": "BEZIERS COURONDELLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.379639,
+          43.953517
+        ]
+      },
+      "properties": {
+        "nom": "CONDOM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.608932,
+          43.14607
+        ]
+      },
+      "properties": {
+        "nom": "PAMIERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.704203,
+          43.406769
+        ]
+      },
+      "properties": {
+        "nom": "SETE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.448328,
+          43.5839
+        ]
+      },
+      "properties": {
+        "nom": "TOULOUSE ST-MICHEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.307489,
+          43.613822
+        ]
+      },
+      "properties": {
+        "nom": "COLOMIERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.913313,
+          43.905562
+        ]
+      },
+      "properties": {
+        "nom": "GAILLAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79738,
+          43.96343
+        ]
+      },
+      "properties": {
+        "nom": "VILLENEUVE LES AVIGNON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.152179,
+          44.051663
+        ]
+      },
+      "properties": {
+        "nom": "CARMAUX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.104389,
+          44.037408
+        ]
+      },
+      "properties": {
+        "nom": "CASTELSARRASIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.452804,
+          43.643387
+        ]
+      },
+      "properties": {
+        "nom": "TOULOUSE BORDEROUGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.938849,
+          43.582291
+        ]
+      },
+      "properties": {
+        "nom": "**Halle de L'emploi 34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.583753,
+          43.63611
+        ]
+      },
+      "properties": {
+        "nom": "AUCH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6271,
+          43.9915
+        ]
+      },
+      "properties": {
+        "nom": "LE VIGAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.970914,
+          43.153079
+        ]
+      },
+      "properties": {
+        "nom": "NARBONNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.874995,
+          42.689354
+        ]
+      },
+      "properties": {
+        "nom": "PERPIGNAN SAINT ASSISCLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.610062,
+          42.953687
+        ]
+      },
+      "properties": {
+        "nom": "FOIX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8255,
+          43.6173
+        ]
+      },
+      "properties": {
+        "nom": "MONTPELLIER CEVENNES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72043,
+          43.109178
+        ]
+      },
+      "properties": {
+        "nom": "SAINT GAUDENS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.438614,
+          44.444172
+        ]
+      },
+      "properties": {
+        "nom": "CAHORS HAUTESSERRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.03045,
+          43.097101
+        ]
+      },
+      "properties": {
+        "nom": "LOURDES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.091584,
+          43.609476
+        ]
+      },
+      "properties": {
+        "nom": "L'ISLE JOURDAIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.404289,
+          43.603461
+        ]
+      },
+      "properties": {
+        "nom": "TOULOUSE CARTOUCHERIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.118696,
+          44.120188
+        ]
+      },
+      "properties": {
+        "nom": "ALES AVENE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.368502,
+          43.503082
+        ]
+      },
+      "properties": {
+        "nom": "AUSSILLON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.438379,
+          43.631638
+        ]
+      },
+      "properties": {
+        "nom": "CLERMONT L'HERAULT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.080273,
+          44.134472
+        ]
+      },
+      "properties": {
+        "nom": "ALES GARDON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.497988,
+          43.662513
+        ]
+      },
+      "properties": {
+        "nom": "SAINT-JEAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.93869,
+          43.58229
+        ]
+      },
+      "properties": {
+        "nom": "MONTPELLIER MEDITERRANEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.85167,
+          43.572803
+        ]
+      },
+      "properties": {
+        "nom": "MONTPELLIER MAS DE GRILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.75635,
+          42.50017
+        ]
+      },
+      "properties": {
+        "nom": "CERET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.428429,
+          42.61688
+        ]
+      },
+      "properties": {
+        "nom": "PRADES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.081371,
+          43.217591
+        ]
+      },
+      "properties": {
+        "nom": "TARBES PYRENEES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.367881,
+          43.214686
+        ]
+      },
+      "properties": {
+        "nom": "CARCASSONNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0219,
+          44.3599
+        ]
+      },
+      "properties": {
+        "nom": "VILLEFRANCHE DE ROUERGUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.224363,
+          43.074886
+        ]
+      },
+      "properties": {
+        "nom": "LIMOUX"
+      }
+    }
+  ]
+}
